@@ -35,6 +35,7 @@
 		<dc:title id="fulltitle">The Nigger of the Narcissus: A Tale of the Forecastle</dc:title>
 		<meta property="file-as" refines="#fulltitle">The Nigger of the Narcissus</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="dcterms:alternative" refines="#title">The Children of the Sea</meta>
 		<dc:subject id="subject-1">Sea stories</dc:subject>
 		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Psychological fiction</dc:subject>
